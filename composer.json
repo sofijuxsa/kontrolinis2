@@ -1,0 +1,19 @@
+{
+  "name": "sofija/kontrolinis",
+  "description": "kontrolinis",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Sofija",
+      "email": "sofijuxsa@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "": "app/code"
+    }
+  },
+  "require": {
+    "psr/log": "^1.1"
+  }
+}
